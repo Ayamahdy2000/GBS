@@ -25,8 +25,7 @@ body::-webkit-scrollbar-track {
 body::-webkit-scrollbar-thumb {
     background-color: var(--thumbBG);
 
-    // border-radius: 6px;
-    // border: 3px solid var(--scrollbarBG);
+
 }
 
 .navbar {
@@ -73,9 +72,6 @@ body::-webkit-scrollbar-thumb {
 
 .about {
     .img {
-
-        // display: flex;
-        // justify-content: start;
         .img-fluid {
             max-width: 100%;
             height: auto;
