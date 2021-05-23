@@ -45,7 +45,7 @@
               current location and destination and you will get the destination
               and the time
             </p>
-            <b-button class="mb-5">Services</b-button>
+            <b-button class="mb-2">Services</b-button>
           </b-col>
         </b-row>
       </section>
